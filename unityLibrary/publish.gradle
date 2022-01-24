@@ -4,12 +4,12 @@ group 'com.axs.unityLibrary'
 version '1.0.0'
 
 project.ext {
-    mavGitUrl = 'https://github.com/prof18/AwesomeLib.git'
-    mavProjectName = 'AwesomeLib'
+    mavGitUrl = 'https://github.com/hacnguyen1412/unityLibrary.git'
+    mavProjectName = 'unityLibrary'
     mavLibraryLicenses = ["Apache-2.0":'http://www.apache.org/licenses/LICENSE-2.0.txt']
     mavLibraryDescription = "An Awesome Android library"
     mavPublishToMavenLocal = true
-    mavSiteUrl = 'https://github.com/prof18/AwesomeLib'
+    mavSiteUrl = 'https://github.com/hacnguyen1412/unityLibrary'
 }
 
 def properties = new Properties()
