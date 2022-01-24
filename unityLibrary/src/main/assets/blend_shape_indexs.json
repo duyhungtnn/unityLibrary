@@ -1,0 +1,16 @@
+{
+    "jawOpen" : 0,
+    "eyeBlink_L" : 1,
+    "eyeBlink_R" : 2,
+    "mouthRight" : 3,
+    "mouthLeft" : 4,
+    "eyeWide_L" : 5,
+    "eyeWide_R" : 6,
+    "mouthSmile_L" : 7,
+    "mouthSmile_R" : 8,
+    "cheekPuff" : 9,
+    "browOuterUp_L" : 10,
+    "browOuterUp_R" : 11,
+    "browDown_L" : 12,
+    "browDown_R" : 13
+}
